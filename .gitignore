@@ -9,3 +9,6 @@ iojs-*/
 8.*/
 6.*/
 .idea/
+build/
+10.1.2
+bin
